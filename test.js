@@ -15,8 +15,9 @@ async function b() {
     console.log("aaa");
   } catch (error) {
     console.log("erer");
+    a
     console.log(error);
-    
+
   }
   //   a()
   //     .then((rs) => {
