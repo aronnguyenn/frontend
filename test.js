@@ -19,6 +19,7 @@ async function b() {
     a
     d
     a
+    ad
     console.log(error);
 AudioDestinationNode
   }
