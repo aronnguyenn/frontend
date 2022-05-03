@@ -18,6 +18,7 @@ async function b() {
     a
     a
     d
+    dsadas
     a
     sa
     console.log(error);a
