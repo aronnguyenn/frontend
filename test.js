@@ -16,6 +16,7 @@ async function b() {
   } catch (error) {
     console.log("erer");
     a
+    d
     console.log(error);
 AudioDestinationNode
   }
